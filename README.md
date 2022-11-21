@@ -1,2 +1,2 @@
 # Terraform-Azure-VM
-Creating Vertual Maching On Microsoft Azure UsingTerraform.
+Creating Virtual Maching On Microsoft Azure Using Terraform.
